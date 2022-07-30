@@ -56,4 +56,7 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
+      <img
+      src="![image](https://user-images.githubusercontent.com/77738456/181936310-9da7510b-a767-4893-9f11-82210994f37a.png)" alt="sass" width="40"
+      height="40" /> </a> </p>
 
