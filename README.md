@@ -12,7 +12,7 @@
 
 - 🏢 I’m currently working at Ligadata as a DF Operations L1 Engineer at Ligadata
 
-- 📫 How to reach me **** 
+- 📫 How to reach me **3dnan.mohammad.2oo2@gmail.com** 
 
 <br>
 
@@ -27,22 +27,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-     <img
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> 
+  
    <img
       src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" alt="Java"
       width="40" height="40" />  
-     <img
+  
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> 
-  <img
-      src="https://user-images.githubusercontent.com/77738456/236645618-926d6142-2be1-4fe1-9621-847853d2cbc0.png" alt="css3"
-      width="40" height="40" />  
-  
+
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> 
+  
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> 
