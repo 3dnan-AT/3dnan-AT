@@ -10,11 +10,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🏢 I’m currently working at Ligadata as a DF Operations L1 Engineer at Ligadata
 
-- 📫 How to reach me **3dnan.mohammad.2oo2@gmail.com**
-
-- ⚡ Fun fact :- Music Is Life🎵 
+- 📫 How to reach me **3dnan.mohammad.2oo2@gmail.com** 
 
 <br>
 
